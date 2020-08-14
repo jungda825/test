@@ -2,7 +2,6 @@ import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 import PostsPage from './pages/PostsPage';
 
-import './styles/App.scss';
 import Profile from './components/profile';
 
 const App = () => {

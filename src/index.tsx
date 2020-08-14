@@ -8,7 +8,7 @@ import rootReducer from './modules';
 import rootSaga from './sagas';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import './styles/index.css';
+import './styles/index.scss';
 
 // Bootstrap
 import 'bootstrap/dist/css/bootstrap.css';
